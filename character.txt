@@ -1,0 +1,4 @@
+boy
+villagers
+wolf
+sheeps
